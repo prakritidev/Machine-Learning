@@ -33,7 +33,7 @@ You can also search for videos on youtube provided by MIT OpenCourseWare
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Statistics and probability(You have to understand this)
+Statistics and probability
 
 NPTEL MOOC -> NOC15 July-Sep MG05
 
