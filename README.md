@@ -9,35 +9,18 @@ Link -> http://scikit-learn.org/stable/index.html
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-How to start ->
+How to start in this repo?
+
+Follow these folders
 
 Pre-Processsing   :- Preproceeing step is important because in real world you will always collect dirty data. 
                      You have to make it ready so that it can be used for further process.
                   
 Feature Selection :- Next step is Feature Selection, In this step we select those attributes(Features) that are most relevant to your                        predictive modeling problem. 
 
+Feature Selection is not Dimension Reduction.
+
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Important Subject you should focus on:
 ------------------------------------------------------------------------------------------------------------------------------------------
